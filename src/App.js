@@ -30,7 +30,7 @@ const App = () => (
 			</Breadcrumb> */}
 			<div style={{ background: '#fff', padding: 24, minHeight: 380 }}>Content</div>
 		</Content>
-		<Footer style={{ textAlign: 'center' }}>Ant Design ©2018 Created by Ant UED</Footer>
+		<Footer style={{ textAlign: 'center' }}>심심하다</Footer>
 	</Layout>
 );
 
